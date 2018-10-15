@@ -1,0 +1,13 @@
+ID        NAME                          AGE       GENDER    SCORE     GRADE     
+10674782  ENOCH                         18        M         98        A         
+10665054  ESTHER                        18        F         78        B         
+10667898  KHOBY                         21        M         76        B         
+10783787  BENJAMIN                      19        M         85        A         
+10657585  VALERIE                       17        F         76        B         
+
+
+
+AVERAGE AGE:        18.6
+AVERAGE SCORE:      82.6
+MALE COUNT:         3
+FEMALE COUNT:       2
